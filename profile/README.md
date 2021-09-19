@@ -1,5 +1,5 @@
 # ChaseApp
-## Prepare For Liftoff. 🚀
+## 🚀 Prepare For Liftoff. 
 Your productivity level just sprouted wings. Easily find what you need, across your cloud services from one place.
 
 
