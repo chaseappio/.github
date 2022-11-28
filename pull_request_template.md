@@ -26,7 +26,6 @@ _<sub>If not relevant (eg chore PR) do omit this section. Alternatively leave on
   - [ ] RTF
 - [ ] File Download
 - [ ] Sync trigger from doppel
-- [ ] Regrssion
 - [ ] Logs checked for potential errors
 
 ## Preparations
