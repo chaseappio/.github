@@ -24,6 +24,7 @@ _<sub>If not relevant (eg chore PR) do omit this section. Alternatively leave on
     - [ ] Overlay icon
     - [ ] Resource shows relevant data
   - [ ] RTF
+- [ ] File Download
 - [ ] Sync trigger from doppel
 - [ ] Regrssion
 - [ ] Logs checked for potential errors
